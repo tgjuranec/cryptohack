@@ -1,6 +1,7 @@
 from Crypto.Util.number import *
 import math as m
 
+
 def qresidue(n, p):
     """
     Quadratic Residue
